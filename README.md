@@ -36,7 +36,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site]((https://voluble-sprite-53df80.netlify.app/))
 
 ## My process
 
@@ -62,7 +62,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [Example resource 1](https://www.youtube.com/watch?v=DgX9cLNz2io&t=334s) - This helped me for positioning image profile. I really liked this pattern and will use it going forward.
 ## Author
 
-- Website - [Hawi Girmachew](https://www.your-site.com)
+- Website - [Hawi Girmachew](https://www.your-site.com](https://voluble-sprite-53df80.netlify.app/)
 - Frontend Mentor - [@Hawigirmachew](https://www.frontendmentor.io/profile/Hawigirmachew)
 - Twitter - [@girmachee_h](https://twitter.com/girmachee_h)
 
