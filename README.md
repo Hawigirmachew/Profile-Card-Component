@@ -35,7 +35,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/responsive-page-using-css-flexbox-AMPQszpkWB)
 - Live Site URL: [Live site]((https://voluble-sprite-53df80.netlify.app/))
 
 ## My process
