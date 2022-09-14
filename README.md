@@ -25,9 +25,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
   Desktop view
+![desktopview](https://user-images.githubusercontent.com/88828065/190242498-2ac870d1-f9a5-4620-a3f0-378be104a09d.PNG)
 
 
   Mobile view
+  
+![mobileview](https://user-images.githubusercontent.com/88828065/190242533-67cf9a91-6b07-4108-823f-beb84b054640.PNG)
 
 
 ### Links
